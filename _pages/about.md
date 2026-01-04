@@ -21,6 +21,8 @@ I am a 3rd-year undergraduate at University of Hong Kong. My research interest l
 
 I am very fortunate to be supervised by Professor [Weiming Feng](https://fwm94.github.io/).
 
+Currently, I am looking for summer research opportunities in 2026 and PhD programs in 2027 fall.
+
 # Publications 
 
 [On approximating the *f*-divergence between two Ising models](https://arxiv.org/abs/2509.05016) [ITCS 2026]
